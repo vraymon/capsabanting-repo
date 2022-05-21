@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7c818c4c2cec6054d9e296f5ca06a187, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3f160f7310232684fbd24297405bbe64, type: 3}
+  - {fileID: 21300000, guid: 6db01b446e86ff94a97af2bb45fdcbdd, type: 3}
+  - {fileID: 21300000, guid: 830c7ef46053cb54cb0632e4265e6574, type: 3}
+  - {fileID: 21300000, guid: d57a835657efbbd4883f2a31309c330a, type: 3}
+  - {fileID: 21300000, guid: d9ea91f6b36e071498b441d62bcd2b76, type: 3}
+  - {fileID: 21300000, guid: 366bfee79dcb26143b03c39ca2654f9b, type: 3}
+  - {fileID: 21300000, guid: 216913bae98b25649bc0ec89628d3b1f, type: 3}
+  - {fileID: 21300000, guid: f5175cccddf404746bdf72be1a636848, type: 3}
+  - {fileID: 21300000, guid: 32ebe5fc3531f764da3fc5d2054810d7, type: 3}
+  - {fileID: 21300000, guid: a1cca71eaef362f4c935b4344127b672, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Background
+  - BoyFace_2_Smile
+  - BoyFace_Smile
+  - GirlFace_Smile
+  - GirlFace_Angry
+  - GirlFace_2_Smile
+  - character_invalid
+  - BoyFace_2_Angry
+  - GirlFace_2_Angry
+  - BoyFace_Angry
+  m_RenderDataMap: {}
+  m_Tag: Character Atlas
+  m_IsVariant: 0
